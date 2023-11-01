@@ -1,0 +1,15 @@
+{
+  "name": "acme-security-scanner",
+  "version": "1.0.0",
+  "description": "An advanced security scanning tool by Acme Corp.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "public-package": "^1.0.0",
+    "internal-package": "^2.0.0",
+    "another-internal-package": ">=1.0.0",
+    "yet-another-package": "*"
+  }
+}
